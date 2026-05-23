@@ -1,7 +1,19 @@
 # 📝 Todo App — Flutter BlocProvider + get_it
 
-A production-structured Flutter todo app demonstrating **Cubit** state management, **BlocProvider** scoping, **get_it** dependency injection, and **SharedPreferences** persistence.
+📱 Flutter Todo App — An Android Developer's Guide to Flutter
 
+A hands-on Flutter project designed specifically for Android developers making the jump to Flutter. Instead of learning Flutter from scratch, every concept is mapped to what you already know.
+
+Built with:
+• 🧠 Cubit (flutter_bloc) — your ViewModel, but simpler
+• 🔌 get_it — your Hilt, without the annotation processing
+• 💾 SharedPreferences — identical API to Android
+• 🏗️ Clean Architecture — same Repository pattern you know
+
+Android → Flutter at a glance:
+ViewModel → Cubit | StateFlow → BlocBuilder | Hilt @Module → service_locator.dart | data class copy() → copyWith() | RecyclerView → ListView.builder | BottomSheetDialogFragment → showModalBottomSheet
+
+If you've shipped Android apps, you'll be productive in Flutter within a day.
 ---
 
 ## 📁 Project Structure
