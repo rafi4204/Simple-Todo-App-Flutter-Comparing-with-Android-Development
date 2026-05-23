@@ -1,6 +1,4 @@
-# 📝 Todo App — Flutter BlocProvider + get_it
-
-📱 Flutter Todo App — An Android Developer's Guide to Flutter
+# 📝 📱 Todo App — Flutter BlocProvider + get_it (An Android Developer's Guide to Flutter)
 
 A hands-on Flutter project designed specifically for Android developers making the jump to Flutter. Instead of learning Flutter from scratch, every concept is mapped to what you already know.
 
